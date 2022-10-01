@@ -60,3 +60,12 @@ form button {
 form button:hover {
     background: var(--primary-color-dark);
 }
+
+.p-resultado, .p-resultado-bad{
+    background: rgb(27, 180, 116);
+    padding: 10px 20px;
+}
+.p-resultado-bad {
+    background: rgb(209, 12, 5);
+    padding: 10px 20px;
+}
